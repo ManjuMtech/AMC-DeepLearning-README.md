@@ -34,9 +34,9 @@ The trained PCTNet model achieved an overall accuracy of **95.6%**, with major i
 ### 🔹 Performance Plots
 | Metric | Plot |
 |:--------|:------:|
-| Confusion Matrix | ![Confusion Matrix](results/confusion_matrix.png) |
-| Accuracy vs SNR | ![Accuracy vs SNR](results/accuracy_vs_snr.png) |
+| Confusion Matrix | ![Confusion Matrix]() |
+| Accuracy vs SNR | ![Accuracy vs SNR]() |
 
-You can explore more output files in the [results/ folder](results/).
+You can explore more output files in the .
 
 
