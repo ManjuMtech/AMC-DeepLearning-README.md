@@ -25,5 +25,18 @@ The dataset is stored in `.npy` format containing complex I/Q samples and modula
 | **Sample length** | 512 IQ points |
 | **Channel** | AWGN (optional fading model) |
 
+---
+
+## 📊 Results
+
+The trained PCTNet model achieved an overall accuracy of **95.6%**, with major improvement in QPSK and 16-QAM classification compared to baseline CNNs.
+
+### 🔹 Performance Plots
+| Metric | Plot |
+|:--------|:------:|
+| Confusion Matrix | ![Confusion Matrix](results/confusion_matrix.png) |
+| Accuracy vs SNR | ![Accuracy vs SNR](results/accuracy_vs_snr.png) |
+
+You can explore more output files in the [results/ folder](results/).
 
 
