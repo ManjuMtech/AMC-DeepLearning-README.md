@@ -34,7 +34,7 @@ The trained PCTNet model achieved an overall accuracy of **95.6%**, with major i
 ### 🔹 Performance Plots
 | Metric | Plot |
 |:--------|:------:|
-| Confusion Matrix | ![Confusion Matrix]() |
+| Confusion Matrix |https://github.com/ManjuMtech/AMC-DeepLearning-README.md/tree/main/results |
 | Accuracy vs SNR | ![Accuracy vs SNR]() |
 
 You can explore more output files in the .
