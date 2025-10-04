@@ -39,7 +39,7 @@ The trained PCTNet model achieved an overall accuracy of **95.6%**, with major i
 ## 📄 Documentation
 
 You can read the full term paper and analysis here:  
-📘 [Download Term Paper (PDF)](docs/TermPaper.pdf)
+📘 [Download Term Paper (PDF)](https://github.com/ManjuMtech/AMC-DeepLearning-README.md/blob/main/AMC_termpaper.pdf)
 
 
 
