@@ -31,12 +31,15 @@ The dataset is stored in `.npy` format containing complex I/Q samples and modula
 
 The trained PCTNet model achieved an overall accuracy of **95.6%**, with major improvement in QPSK and 16-QAM classification compared to baseline CNNs.
 
-### 🔹 Performance Plots
-| Metric | Plot |
-|:--------|:------:|
-| Confusion Matrix |https://github.com/ManjuMtech/AMC-DeepLearning-README.md/tree/main/results |
-| Accuracy vs SNR | ![Accuracy vs SNR]() |
+### 🔹 Performance Plots  https://github.com/ManjuMtech/AMC-DeepLearning-README.md/tree/main/results
+1. Confusion Matrix
+2. Accuracy vs SNR 
+---
 
-You can explore more output files in the .
+## 📄 Documentation
+
+You can read the full term paper and analysis here:  
+📘 [Download Term Paper (PDF)](docs/TermPaper.pdf)
+
 
 
